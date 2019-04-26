@@ -1,2 +1,2 @@
 # PythonCode
-Sample of Python3 code
+Samples of Python3 code exanple
